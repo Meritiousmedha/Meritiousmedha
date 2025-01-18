@@ -1,3 +1,4 @@
+# Medha Raina
 ## Hi there 👋
 
 <!--
@@ -30,8 +31,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!-- Custom Stats Card with Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SmitBhatiya29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72EF7&icon_color=F72EF7&text_color=FFFFFF" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmitBhatiya29&theme=radical&hide_border=true&background=0D1117&ring=F72EF7&fire=FF2E2E&currStreakLabel=F72EF7" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MeritiousMedha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72EF7&icon_color=F72EF7&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeritiousMedha&theme=radical&hide_border=true&background=0D1117&ring=F72EF7&fire=FF2E2E&currStreakLabel=F72EF7" height="165"/>
 </div>
 
 <!-- Matrix-style Code Rain Animation -->
